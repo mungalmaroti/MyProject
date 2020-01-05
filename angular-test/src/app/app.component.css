@@ -1,0 +1,9 @@
+.container{position: relative;}
+.form-control:focus{box-shadow:none !important}
+
+  #contentInside{
+ 
+    margin:7px;
+    border:1px solid black;
+    display:inline-flex;
+  }
